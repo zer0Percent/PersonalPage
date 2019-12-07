@@ -1,0 +1,23 @@
+
+.formEmail{
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 70%;
+    left: 50%;
+    right: 50%; 
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); 
+    width:50%;
+
+  }
+
+.buttonSend{
+
+  width:10%;
+}
+.contactText{
+  position: relative;
+  left: 35%;
+  font-weight: bold;
+}
