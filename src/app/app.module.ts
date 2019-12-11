@@ -12,12 +12,14 @@ import {MatSelectModule} from '@angular/material/select';
 import {MatInputModule} from '@angular/material';
 import {MatButtonModule} from '@angular/material/button';
 import { FormEmailComponent } from './components/form-email/form-email.component';
+import { FooterComponent } from './components/footer/footer.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     FormEmailComponent,
+    FooterComponent,
     
   ],
   imports: [
