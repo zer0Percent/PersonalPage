@@ -7,9 +7,20 @@
     z-index: 1000; /* Ensure that your app's content doesn't overlap the toolbar */
  }
 
- .footer{
-  position: absolute;
+
+ .photoMain{
+  margin:auto;
+
+ }
+
+ .contactForm{
+  margin:auto;
+}
+ .footerC{
+  position: relative;
+  top:  100%;
   bottom: 0px;
   margin-left: auto;
   margin-right: auto;
 }
+
